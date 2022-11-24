@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tmonga2208
 - 👀 I’m interested in Developing Apps.
 - 🌱 I’m currently learning Bachelor of Electonic And Computer Engineering In Thapar..
+- 🤖 Learningh Languages Like C Kotlin Java And Python
 - 📫 How to reach me tarunmonga2208@gmail.com on Mail or Instagram Snapchat Twitter user id:-tmonga2208...
 
 <!---

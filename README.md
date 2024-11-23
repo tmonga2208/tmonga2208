@@ -21,9 +21,6 @@ Here are some of the frameworks and tools I use regularly:
 </p>
 
 
-![Tarun Monga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmonga2208&show_icons=true&theme=radical)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmonga2208&layout=compact&theme=radical)
 
 

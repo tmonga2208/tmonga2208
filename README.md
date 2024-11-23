@@ -20,6 +20,9 @@ Here are some of the frameworks and tools I use regularly:
   <img src="https://img.shields.io/badge/ShadCN-4F46E5?style=for-the-badge&logoColor=white" alt="ShadCN"/>
 </p>
 
+![Tarun Monga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmonga2208&show_icons=true&theme=radical)
+
+
 ### 📫 Get in Touch
 Reach me anytime at **tarunmonga2208@gmail.com** or connect on [Instagram](https://instagram.com/tmonga2208), [Twitter](https://twitter.com/tmonga2208), or [Snapchat](https://www.snapchat.com/add/tmonga2208)!
 

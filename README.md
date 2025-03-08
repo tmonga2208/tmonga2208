@@ -23,6 +23,8 @@ Here are some of the frameworks and tools I use regularly:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmonga2208&layout=compact&theme=radical)
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tmonga2208&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements"/> </p>
+
 
 
 ### 📫 Get in Touch

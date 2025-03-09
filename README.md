@@ -27,9 +27,6 @@ Here are some of the frameworks and tools I use regularly:
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tmonga2208&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmonga2208&theme=radical" alt="GitHub Streak"/>
     </td>
   </tr>
@@ -43,25 +40,9 @@ Here are some of the frameworks and tools I use regularly:
 ### 📊 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmonga2208&theme=radical)  
 
-### 🚀 GitHub Metrics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmonga2208&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
 
 ### ⚡ GitHub Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=tmonga2208&label=PROFILE+VIEWS&style=for-the-badge&color=blue)  
-
----
-
-## 🚀 Recent Activity  
-
-<!--START_SECTION:activity-->
-1. 📦 Pushed updates to **ForgeStack**  
-2. 🔥 Working on **create-forgestack** CLI  
-3. 🎨 Improved UI for **SubPIP - Picture in Picture**  
-4. 💡 Brainstorming features for **Markdown**  
-5. 🛠 Fixing bugs in **Smart Pepper Spray**  
-<!--END_SECTION:activity-->
 
 ---
 

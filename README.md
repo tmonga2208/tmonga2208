@@ -76,5 +76,3 @@ Feel free to reach out!
 
 ---
 
-This version adds **GitHub Score, Contribution Graph, Activity Graph, and Profile Views** to make your README more interactive and visually appealing! 🚀🔥 Let me know if you need any more customizations! 😃
-

@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Tarun Monga (@tmonga2208)  
 
-Welcome to my GitHub! I’m an aspiring **Electronic and Computer Engineer** with a passion for **app development**, currently studying at **Thapar Institute of Engineering and Technology**.  
+Welcome to my GitHub! I’m an aspiring **Electronic and Computer Engineer** with a passion for **Web development**, currently studying at **Thapar Institute of Engineering and Technology**.  
 
 ## 🌱 About Me  
 - 🚀 I'm on a journey to create impactful technology and am continuously building my skills in **C**, **C++**, **Python**, and the **MERN stack**.  

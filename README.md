@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m an aspiring **Electronic and Computer Engineer** wit
 
 ## 🌱 About Me  
 - 🚀 I'm on a journey to create impactful technology and am continuously building my skills in **C**, **C++**, **Python**, and the **MERN stack**.  
-- 🎨 I love creating apps that are both **functional** and **visually engaging**, with a strong focus on **efficiency** and **user experience**.  
+- 🎨 I love creating web apps that are both **functional** and **visually engaging**, with a strong focus on **efficiency** and **user experience**.  
 
 ## 🔧 Tech Stack and Skills  
 Here are some of the frameworks and tools I use regularly:  

@@ -1,12 +1,12 @@
-# 👋 Hey there! I'm Tarun Monga (@tmonga2208)  
+#  Hey there! I'm Tarun Monga (@tmonga2208)  
 
 Welcome to my GitHub! I’m an aspiring **Electronic and Computer Engineer** with a passion for **Web development**, currently studying at **Thapar Institute of Engineering and Technology**.  
 
-## 🌱 About Me  
-- 🚀 I'm on a journey to create impactful technology and am continuously building my skills in **C**, **C++**, **Python**, and the **MERN stack**.  
-- 🎨 I love creating web apps that are both **functional** and **visually engaging**, with a strong focus on **efficiency** and **user experience**.  
+##  About Me  
+-  I'm on a journey to create impactful technology and am continuously building my skills in **C**, **C++**, **Python**, and the **MERN stack**.  
+-  I love creating web apps that are both **functional** and **visually engaging**, with a strong focus on **efficiency** and **user experience**.  
 
-## 🔧 Tech Stack and Skills  
+##  Tech Stack and Skills  
 Here are some of the frameworks and tools I use regularly:  
 
 <p align="left">
@@ -22,7 +22,7 @@ Here are some of the frameworks and tools I use regularly:
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <table>
   <tr>
@@ -34,10 +34,10 @@ Here are some of the frameworks and tools I use regularly:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmonga2208&layout=compact&theme=radical)  
 
-### 🏆 GitHub Achievements  
+###  GitHub Achievements  
 <img src="https://github-profile-trophy.vercel.app/?username=tmonga2208&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements"/>  
 
-### 📊 Contribution Graph  
+###  Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmonga2208&theme=radical)  
 
 
@@ -46,7 +46,7 @@ Here are some of the frameworks and tools I use regularly:
 
 ---
 
-## 📫 Get in Touch  
+##  Get in Touch  
 
 Feel free to reach out!  
 
